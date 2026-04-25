@@ -1,16 +1,47 @@
-## Hi there 👋
+# 0xMeedow | Senior Security Researcher 🛡️
 
-<!--
-**SilMeedow/SilMeedow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://githubusercontent.com" width="200" alt="Logo">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🟢 Status: [OFFLINE] _Analyzing vulnerabilities..._
+
+```javascript
+const meedow = {
+    role: "Senior Pentester / OSINT Specialist",
+    focus: ["Offensive Security", "Cyber Intelligence", "Network Security"],
+    tools: ["BurpSuite", "Metasploit", "Maltego", "Python"],
+    motto: "Security is an illusion, anonymity is a choice."
+};
+```
+
+---
+
+### 🛠 Technology Stack & Tools
+
+![Python](https://shields.io)
+![Kali](https://shields.io)
+![Bash](https://shields.io)
+![Docker](https://shields.io)
+
+---
+
+### 📊 GitHub Activity 
+*(Моя активность в коде и исследованиях)*
+
+![Meedow's GitHub stats](https://vercel.app)
+![Top Langs](https://vercel.app)
+
+---
+
+### 📫 Connect with me
+[<img src="https://shields.io">](https://t.me)
+[<img src="https://shields.io">](https://tonviewer.com)
+
+---
+<p align="center">
+  <img src="https://komarev.com" alt="views">
+</p>
+
