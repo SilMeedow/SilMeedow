@@ -1,31 +1,28 @@
 # 0xMeedow | Senior Security Researcher 🛡️
 
----
-
-### 🟢 Status: [OFFLINE] _Analyzing vulnerabilities..._
+### 🟢 Status: [OFFLINE] Analyzing vulnerabilities...
 
 ```javascript
 const meedow = {
     role: "Senior Pentester / OSINT Specialist",
-    focus: ["Offensive Security", "Cyber Intelligence"],
-    tools: ["BurpSuite", "Metasploit", "Python"],
     motto: "Security is an illusion."
 };
 ```
 
 ---
 
-### 🛠 Technology Stack & Tools
-![](https://shields.io)
-![](https://shields.io)
-![](https://shields.io)
-
----
-
-### 📊 GitHub Activity 
-![](https://vercel.app)
+### 🛠 Tech Stack
+- **OS:** Kali Linux 🐉
+- **Languages:** Python, Bash, JavaScript
+- **Focus:** Offensive Security & OSINT
 
 ---
 
 ### 📫 Connect with me
-[<img src="https://shields.io">](https://t.me)
+- **Telegram:** [@SilMeedow](https://t.me/SilMeedow)
+- **Twitter / X:** [@SilMeedow](https://twitter.com)
+- **Discord:** `SilMeedow`
+
+---
+*Verified Official Account*
+
